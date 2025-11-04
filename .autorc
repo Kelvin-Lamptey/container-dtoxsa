@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Kelvin-Lamptey",
+  "repo": "container-dtoxsa",
+  "name": "Kelvin-Lamptey",
+  "email": "kelvinlamptey77@gmail.com",
+}
